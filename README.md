@@ -1,4 +1,4 @@
-# SendGrid---Padrao-de-projeto-Strategy
+# SendGrid---Padrao-de-projeto-Strategy - (devsuperior.com)
 
 Projeto criado em java.
 
